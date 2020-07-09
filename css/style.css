@@ -33,3 +33,10 @@ address{
     margin:0px;
     color:#0f0f0f;
 }
+.thead{
+    background-color:  #512DA8 ;
+    color: white;
+}
+.card-header{
+    background-color:#512DA8 ;
+}
