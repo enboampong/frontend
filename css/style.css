@@ -52,3 +52,16 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+.modal .modal-dialog .modal-content #reserveCloseButton {
+  color: #D1C4E9; }
+
+.modal .modal-dialog .modal-content #loginCloseButton {
+  color: #D1C4E9; }
+
+.modal .modal-dialog .modal-content .modal-header {
+  background-color: #512DA8;
+  color: white; }
+
+.modal .modal-dialog .modal-content .modal-body {
+  background-color: #D1C4E9; }
